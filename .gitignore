@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+release/
+
+# Local media / generated binaries
+*.mov
+*.mp4
+*.icns
+assets/AppIcon-*.png
+assets/AppIcon.iconset/
+
+# Logs / editor
+*.log
+.vscode/
